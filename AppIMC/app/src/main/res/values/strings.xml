@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppImc</string>
+    <string name="txt_titulo">CALCULADORA DE IMC</string>
+    <string name="txt_peso">Name</string>
+    <string name="txt_digite_o_seu_peso">Digite o seu peso</string>
+    <string name="txt_edit_digite_o_peso">Digite o peso</string>
+    <string name="txt_edit_digite_sua_altura">Digite sua altura</string>
+    <string name="txt_button_calcular">Button</string>
+    <string name="txt_button_calcula">Calcular</string>
+</resources>
